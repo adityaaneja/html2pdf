@@ -1,4 +1,3 @@
-#!python
 import boto3
 import botocore
 import pdfkit
